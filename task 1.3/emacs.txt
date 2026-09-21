@@ -1,1 +1,1 @@
-Emacs is an advanced text editor.emacs emacs.txt
+Emacs is an advanced text editor.
